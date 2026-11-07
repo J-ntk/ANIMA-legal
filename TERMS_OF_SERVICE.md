@@ -1,52 +1,58 @@
+---
+title: Terms of Service
+permalink: /terms/
+description: The terms that govern your use of ANIMA.
+---
+
 # Terms of Service
 
-**Last updated:** 29/08/2026
+**Last updated:** 7 November 2026
 
-These Terms of Service ("Terms") govern your use of the ANIMA mobile application (the "App"), operated by JNT & Co ("we," "us," or "our"). By creating an account or using the App, you agree to these Terms.
-
-**This document is a draft prepared with AI assistance and has not been reviewed by a lawyer.** It should not be published or relied upon until reviewed by qualified legal counsel — particularly given the App's use of AI-generated content and its proximity to mental-health-adjacent topics, both of which carry real regulatory and liability considerations that need expert review, not just careful drafting.
+These Terms of Service ("Terms") govern your use of the ANIMA mobile application (the "App"), operated by JNT & Co ("we," "us," or "our"). By creating an account or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
 ---
 
 ## 1. Eligibility
 
-The App is intended for users **16 years of age and older** (see our Privacy Policy for details). By using the App, you represent that you meet this age requirement. [NOTE: legal review should confirm whether this age floor is appropriate given the AI provider's own usage policy for serving minors — see internal documentation for the open compliance question on this point.]
+You must be **18 years of age or older** to use the App. By using the App, you confirm that you meet this requirement.
 
 ---
 
-## 2. What ANIMA Is — and Is Not
+## 2. What ANIMA Is, and What It Is Not
 
 ANIMA offers a set of self-reflection practices, each guided by an AI facilitator that responds to what you write. The App is designed for self-inquiry and awareness, not treatment.
 
-**ANIMA is not therapy, medical advice, or a substitute for professional mental health care.** The AI facilitator does not diagnose conditions, predict outcomes, or provide clinical guidance. If you are experiencing a mental health crisis, please contact a licensed professional or a crisis service in your area — the App is not equipped to provide emergency support.
+**ANIMA is not therapy, medical advice, or a substitute for professional mental health care.** The AI facilitator does not diagnose conditions, predict outcomes, or provide clinical guidance. If you are experiencing a mental health crisis, please contact a licensed professional or a crisis service in your area. The App is not equipped to provide emergency support.
 
 ---
 
 ## 3. Your Account
 
-You are responsible for maintaining the confidentiality of your account credentials and for all activity under your account. You must provide accurate information when creating an account, and you may not share your account with others.
+You are responsible for keeping your account credentials confidential and for all activity under your account. You must provide accurate information when creating an account, and you may not share your account with others.
 
 ---
 
 ## 4. Your Content
 
-You retain ownership of what you write in the App (your intentions, reflection answers, and any other content you create). By using the App, you grant us a limited license to store, process, and transmit that content solely to operate the App — including sending relevant portions to our AI service provider (Anthropic) to generate the facilitator's responses, as described in our Privacy Policy.
+You keep ownership of what you write in the App (your intentions, reflection answers, and any other content you create). By using the App, you grant us a limited license to store, process, and transmit that content only to operate the App, including sending relevant portions to our AI service provider (Anthropic) to generate the facilitator's responses, as described in our [Privacy Policy](/privacy/).
 
 You agree not to submit content that is illegal, that violates the rights of others, or that you do not have the right to share.
 
-**Content about other people.** One of the App's practices (Naikan) is specifically designed around reflecting on a real, named person in your life. If you use this or any other feature to write about someone else, you are responsible for exercising reasonable discretion — avoid including unnecessarily identifying or sensitive information about that person, and understand that this content is processed and stored the same way your own personal content is (see our Privacy Policy, Section 2.3). We do not independently verify, moderate, or take responsibility for the accuracy of anything you write about a third party.
+**Content about other people.** One of the App's practices (Naikan) is specifically designed around reflecting on a real, named person in your life. If you use this or any other feature to write about someone else, please use reasonable discretion. Avoid including unnecessarily identifying or sensitive information about that person, and understand that this content is processed and stored the same way your own content is (see our [Privacy Policy](/privacy/), Section 2.3). We do not independently verify, moderate, or take responsibility for the accuracy of anything you write about a third party.
 
 ---
 
 ## 5. AI-Generated Content
 
-Responses from the AI facilitator are generated by an AI system and are provided for reflective purposes only. They are not statements of fact, professional advice, or predictions about your life. We do not guarantee the accuracy, completeness, or appropriateness of any AI-generated response, though we have designed the system with specific behavioral rules intended to keep responses observational rather than directive (see our published design principles for details, available on request).
+Responses from the AI facilitator are generated by an AI system and are provided for reflective purposes only. They are not statements of fact, professional advice, or predictions about your life. We do not guarantee the accuracy, completeness, or appropriateness of any AI-generated response, although the system is designed with specific rules intended to keep responses observational rather than directive.
 
 ---
 
 ## 6. Subscriptions and Payment
 
-[PLACEHOLDER — the subscription system is designed but not yet built as of this draft. This section needs to be completed once the actual subscription mechanics (free tier limits, pricing, billing provider, cancellation/refund policy, and how Apple's/Google's own in-app purchase terms interact with these Terms) are finalized. At minimum this section will need to cover: how the free tier works, how billing and renewal work, how to cancel, and that in-app purchases are also governed by the applicable app store's own terms.]
+ANIMA can currently be used free of charge. A paid plan (ANIMA+) may be offered in the future. If it is, these Terms will be updated before you can be charged, and the price, what is included, and how billing and renewal work will be shown clearly before you buy.
+
+Any purchase will be made through the Apple App Store or Google Play and is also governed by that store's terms, including its rules on cancellation and refunds. You will be able to cancel a subscription at any time in your store account settings.
 
 ---
 
@@ -56,7 +62,7 @@ You agree not to:
 - Use the App for any unlawful purpose
 - Attempt to interfere with, disrupt, or gain unauthorized access to the App's systems
 - Use the App to harass, harm, or impersonate others
-- Reverse-engineer, decompile, or attempt to extract the App's source code or AI prompts beyond what is publicly disclosed
+- Reverse-engineer, decompile, or attempt to extract the App's source code or AI prompts, except where the law allows it
 - Use automated systems (bots, scrapers) to access the App
 
 ---
@@ -69,35 +75,37 @@ The App, including its design, code, and original content (excluding content you
 
 ## 9. Disclaimers
 
-THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. We do not warrant that the App will be uninterrupted, error-free, or that AI-generated content will meet your expectations or needs.
+The App is provided "as is" and "as available." To the extent permitted by law, we make no warranties, express or implied, that the App will be uninterrupted or error-free, or that AI-generated content will meet your expectations or needs.
 
 ---
 
 ## 10. Limitation of Liability
 
-[PLACEHOLDER — standard limitation-of-liability language belongs here, but the specific scope (e.g., liability caps, exclusions for indirect/consequential damages) should be set by legal counsel with awareness of the App's specific risk profile, particularly around AI-generated content touching on personal/emotional topics.]
+To the extent permitted by law, JNT & Co is not liable for any indirect, incidental, or consequential damages arising from your use of the App, or for decisions you make based on AI-generated content.
+
+Nothing in these Terms limits or excludes liability that cannot be limited or excluded under applicable law, including liability for death or personal injury caused by negligence, for fraud, or your rights as a consumer under the mandatory laws of the country where you live.
 
 ---
 
 ## 11. Termination
 
-We may suspend or terminate your account if you violate these Terms. You may stop using the App and delete your account at any time via Settings.
+We may suspend or terminate your account if you seriously or repeatedly violate these Terms. You may stop using the App and [delete your account](/delete-account/) at any time.
 
 ---
 
 ## 12. Governing Law
 
-[PLACEHOLDER — needs to specify jurisdiction, which depends on where JNT & Co is legally established and where you intend to primarily operate/target users.]
+These Terms are governed by the laws of Greece. If you are a consumer living in the European Union, you also keep the protection of the mandatory laws of your country of residence, and you may bring a claim in the courts of that country.
 
 ---
 
 ## 13. Changes to These Terms
 
-We may update these Terms from time to time. Material changes will be communicated through the App. Continued use after changes take effect constitutes acceptance of the updated Terms.
+We may update these Terms from time to time. Material changes will be communicated through the App. Continuing to use the App after changes take effect means you accept the updated Terms.
 
 ---
 
 ## 14. Contact
 
-**JNT & Co**
-[INSERT CONTACT EMAIL]
+**JNT & Co**<br>
+[support@anima-app.net](mailto:support@anima-app.net)

@@ -1,0 +1,12 @@
+title: ANIMA
+description: ANIMA — a quiet space for self-inquiry, reflection, and awareness.
+email: support@anima-app.net
+url: https://anima-app.net
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md

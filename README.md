@@ -1,14 +1,25 @@
-# ANIMA — Legal Documents
+# ANIMA — website and legal documents
 
-This repository hosts the publicly accessible legal documents for **ANIMA**, a self-inquiry and reflection app developed by JNT & Co, offering four distinct contemplative practices (Leela, The Great Work, The Labyrinth, and Naikan).
+This repository is the source of **https://anima-app.net**, served by GitHub Pages. It hosts the public pages for **ANIMA**, a self-inquiry and reflection app by JNT & Co with four contemplative practices (Leela, The Great Work, The Labyrinth, and Naikan).
 
-## Contents
+## Pages
 
-- [`PRIVACY_POLICY.md`](./PRIVACY_POLICY.md) — how user data is collected, used, and protected, including a specific section on third-party data (relevant to the Naikan practice, which involves reflecting on a named person in your life).
-- [`TERMS_OF_SERVICE.md`](./TERMS_OF_SERVICE.md) — **draft, not yet reviewed by legal counsel.** Do not treat as final or publish without review — see the notice at the top of that document for specifics on what still needs expert input.
+| URL | Source file |
+|---|---|
+| https://anima-app.net/ | `index.html` |
+| https://anima-app.net/privacy/ | `PRIVACY_POLICY.md` |
+| https://anima-app.net/terms/ | `TERMS_OF_SERVICE.md` |
+| https://anima-app.net/delete-account/ | `delete-account.md` |
+| https://anima-app.net/support/ | `support.md` |
 
-## Purpose
+The privacy, delete-account and support URLs are the ones given to the Apple App Store and Google Play. Don't rename them.
 
-These documents are published here to provide a stable, publicly accessible URL required for app store submission (Apple App Store and Google Play Store) and for transparency with users.
+## Editing
 
-For questions, contact JNT & Co at [INSERT CONTACT EMAIL].
+Edit the Markdown file, commit, and push. GitHub Pages rebuilds the site in about a minute. The shared look is in `_layouts/default.html`, and site settings are in `_config.yml`. `CNAME` holds the custom domain.
+
+## Legal review
+
+These documents were drafted with AI assistance and have **not been reviewed by a lawyer**. Have them reviewed before a public launch, especially around AI-generated content, sensitive personal content, and EU (GDPR) requirements.
+
+Contact: support@anima-app.net
