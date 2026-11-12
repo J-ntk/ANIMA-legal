@@ -6,7 +6,7 @@ description: The terms that govern your use of ANIMA.
 
 # Terms of Service
 
-**Last updated:** 7 November 2026
+**Last updated:** 12 November 2026
 
 These Terms of Service ("Terms") govern your use of the ANIMA mobile application (the "App"), operated by JNT & Co ("we," "us," or "our"). By creating an account or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
@@ -24,6 +24,8 @@ ANIMA offers a set of self-reflection practices, each guided by an AI facilitato
 
 **ANIMA is not therapy, medical advice, or a substitute for professional mental health care.** The AI facilitator does not diagnose conditions, predict outcomes, or provide clinical guidance. If you are experiencing a mental health crisis, please contact a licensed professional or a crisis service in your area. The App is not equipped to provide emergency support.
 
+**Safety message and Calm mode.** If what you write mentions suicide or self-harm, the App pauses the practice and shows a fixed message with emergency numbers and helplines instead of an AI response. This is an automatic keyword check: it can miss messages, and it is not monitored by anyone. The Calm screen (breathing, grounding, and petting the cat) is a self-help tool for stressful moments. Neither is a crisis, medical, or emergency service, and helpline numbers shown in the App may change; if you are in danger, contact your local emergency number.
+
 ---
 
 ## 3. Your Account
@@ -34,7 +36,7 @@ You are responsible for keeping your account credentials confidential and for al
 
 ## 4. Your Content
 
-You keep ownership of what you write in the App (your intentions, reflection answers, and any other content you create). By using the App, you grant us a limited license to store, process, and transmit that content only to operate the App, including sending relevant portions to our AI service provider (Anthropic) to generate the facilitator's responses, as described in our [Privacy Policy](/privacy/).
+You keep ownership of what you write in the App (your intentions, reflection answers, and any other content you create). By using the App, you grant us a limited license to store, process, and transmit that content only to operate the App, including sending relevant portions to our AI service providers (OpenLux and OpenAI) to generate the facilitator's responses, as described in our [Privacy Policy](/privacy/).
 
 You agree not to submit content that is illegal, that violates the rights of others, or that you do not have the right to share.
 
