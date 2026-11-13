@@ -6,7 +6,7 @@ description: The terms that govern your use of ANIMA.
 
 # Terms of Service
 
-**Last updated:** 12 November 2026
+**Last updated:** 13 November 2026
 
 These Terms of Service ("Terms") govern your use of the ANIMA mobile application (the "App"), operated by JNT & Co ("we," "us," or "our"). By creating an account or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
@@ -24,7 +24,7 @@ ANIMA offers a set of self-reflection practices, each guided by an AI facilitato
 
 **ANIMA is not therapy, medical advice, or a substitute for professional mental health care.** The AI facilitator does not diagnose conditions, predict outcomes, or provide clinical guidance. If you are experiencing a mental health crisis, please contact a licensed professional or a crisis service in your area. The App is not equipped to provide emergency support.
 
-**Safety message and Calm mode.** If what you write mentions suicide or self-harm, the App pauses the practice and shows a fixed message with emergency numbers and helplines instead of an AI response. This is an automatic keyword check: it can miss messages, and it is not monitored by anyone. The Calm screen (breathing, grounding, and petting the cat) is a self-help tool for stressful moments. Neither is a crisis, medical, or emergency service, and helpline numbers shown in the App may change; if you are in danger, contact your local emergency number.
+**Safety message and Calm mode.** If what you write mentions suicide or self-harm, the App pauses the practice and shows a Help card with call buttons for emergency services and helplines instead of an AI response. The numbers are chosen for the country your phone reports and may not be right if you are travelling or using a phone set to another region; your local emergency number always applies. This is an automatic keyword check: it can miss messages, and it is not monitored by anyone. The Calm screen (breathing, grounding, and petting the cat) is a self-help tool for stressful moments. Neither is a crisis, medical, or emergency service, and helpline numbers shown in the App may change; if you are in danger, contact your local emergency number.
 
 ---
 
